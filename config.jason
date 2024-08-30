@@ -1,0 +1,10 @@
+{
+    "api": {
+        "key": "AIzaSyD-2kSvF2OlvHdiQPym-Ww-HPzJ76yTwDI",
+        "baseUrl": "https://api.example.com"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432
+    }
+}
